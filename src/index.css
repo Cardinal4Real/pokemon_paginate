@@ -6,8 +6,38 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.navbarAux{
+  color:#ffffff;
+  padding: 3px;
+  height: 100px;   
+}
+/*menu button css*/
+div a{
+  color:white;
+  text-decoration: none;
+}
+.fawesomehead{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  width: 100%;
+}
+.searchMain {
+  width: 100%;
+  padding-top: 25px;
+  justify-content: center;
+  align-items: center;
+}
+.custom-navbar {
+  position: relative;
+  z-index: 1000; /* Set a higher z-index */
+}
+.pagination{
+  margin-top: 10px;
+  justify-content: center;
 }

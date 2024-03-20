@@ -1,0 +1,35 @@
+{
+  "pokemonlist": [
+    {
+      "name": "Bulbasaur",
+      "image": "https://example.com/images/bulbasaur.png",
+      "cp": 102,
+      "attack": 126,
+      "defense": 128,
+      "type": [
+        "Grass",
+        "Poison"
+      ]
+    },
+    {
+      "name": "Charmander",
+      "image": "https://example.com/images/charmander.png",
+      "cp": 104,
+      "attack": 130,
+      "defense": 90,
+      "type": [
+        "Fire"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "image": "https://example.com/images/squirtle.png",
+      "cp": 98,
+      "attack": 110,
+      "defense": 100,
+      "type": [
+        "Water"
+      ]
+    }
+  ]
+}
